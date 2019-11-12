@@ -15,3 +15,22 @@ ASF_FAST Companion Software for rapid sequence assembly in real-time.  Intended 
 Software is provided as both source code and as a Docker Image.  It is recommended that the software be built using the docker image for platform compatability and to ensure that all dependencies are available.   Source code is provided for reference and has not been adapted for easy deployment and would require extensive modification for use.
 
 Please note!  Demultiplexing by Porechop as originally described and implemented for generation of data in the manuscript has been replaced with the QCAT demultiplexer for improved performance (https://github.com/nanoporetech/qcat).
+
+
+INSTALLATION INSTRUCTIONS
+
+1.  Download and install Docker desktop. 
+
+  https://www.docker.com/products/docker-desktop
+
+2.  Download ASF_FAST docker image.
+
+3.  Load Docker Image.  Enter into command line with Docker Desktop running.
+
+  docker load --input ASFfast.tar
+  
+4.  Run Docker Image ASFfast
+  
+  docker run -ti -v /{Input_Output_Folder_Location}/ASFfast_IO:/BWAfiles python-barcode /bin/bash
+
+RUNNING ASF-
