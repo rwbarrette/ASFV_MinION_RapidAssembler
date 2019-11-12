@@ -33,4 +33,11 @@ INSTALLATION INSTRUCTIONS
   
   docker run -ti -v /{Input_Output_Folder_Location}/ASFfast_IO:/BWAfiles python-barcode /bin/bash
 
+OPTIONAL INSTALLATION OF TWILIO FOR SMS RESULTS REPORTING
+ (note: currently generates report for only single barcode of interest for SMS reporting)
+
+5.  Install ngrok
+
+  https://github.com/inconshreveable/ngrok
+
 RUNNING ASF-
