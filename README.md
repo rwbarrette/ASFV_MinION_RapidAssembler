@@ -43,12 +43,13 @@ OPTIONAL INSTALLATION OF TWILIO FOR SMS RESULTS REPORTING
 RUNNING ASF-FAST
 
   Setup Environment
-    1.  Start ngrok
+   1.  Start ngrok
     
       ngrok http 5000
       
-    2.  Copy from ngrok session window Forwarding http
+   2.  Copy from ngrok session window Forwarding http:
    
  ![](/images/ngrok_Screenshot1.png)
  
+   3.  Log into Twilio and paste Forwarding http: for SMS.  Follow instructions to set up Twilio for SMS messaging
 
