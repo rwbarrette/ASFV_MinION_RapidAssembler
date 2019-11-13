@@ -40,4 +40,14 @@ OPTIONAL INSTALLATION OF TWILIO FOR SMS RESULTS REPORTING
 
   https://github.com/inconshreveable/ngrok
 
-RUNNING ASF-
+RUNNING ASF-FAST
+
+  Setup Environment
+    1.  Start ngrok
+    
+      ngrok http 5000
+      
+    2.  Copy from ngrok session window Forwarding http
+    
+    
+
