@@ -48,6 +48,7 @@ RUNNING ASF-FAST
       ngrok http 5000
       
     2.  Copy from ngrok session window Forwarding http
-    
-    
+   
+ ![](/images/ngrok_Screenshot1.png)
+ 
 
