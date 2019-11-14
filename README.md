@@ -2,7 +2,7 @@
 
 https://www.ncbi.nlm.nih.gov/pubmed/?term=31694969
 
-O'Donnell VK, Grau FR, Mayr GA, Sturgill Samayoa TL1, Dodd KA, Barrette RW.,
+O'Donnell VK, Grau FR, Mayr GA, Sturgill Samayoa, Dodd KA, Barrette RW.,
 RAPID SEQUENCE-BASED CHARACTERIZATION OF AFRICAN SWINE FEVER VIRUS USING THE OXFORD NANOPORE MINION SEQUENCE SENSING DEVICE AND A COMPANION ANALYSIS SOFTWARE TOOL.
 J Clin Microbiol. 2019 Nov 6. pii: JCM.01104-19. doi: 10.1128/JCM.01104-19.
 
@@ -67,6 +67,6 @@ Optional for SMS based reporting:
   
   3. start ASF-FAST software within Docker pointing at the folder where the FASTQ raw data files are being copied to
   
-    
+    python ./asffast.py  ./INPUT_OUTPUT/FASTQ_OUTPUT/{FASTQ_basecalled_reads_from_MinION_location}
   
   
