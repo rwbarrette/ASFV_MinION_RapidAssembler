@@ -10,7 +10,7 @@ Foreign Animal Disease Diagnostic Laboratory, National Veterinary Services Labor
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-**!!! PLEASE NOTE: SOURCE CODE FOR ASF_FAST IS CURRENTLY AVAILABLE HERE.  THE SELF-CONTAINED DOCKER IMAGE TO SIMPLIFY TOOL DEPLOYMENT ACROSS PLATFORMS WILL BE MADE AVAILABLE BY DECEMBER 1
+**!!! PLEASE NOTE: SOURCE CODE FOR ASF_FAST IS CURRENTLY AVAILABLE HERE.  THE SELF-CONTAINED DOCKER IMAGE TO SIMPLIFY TOOL DEPLOYMENT ACROSS PLATFORMS WILL BE MADE AVAILABLE BY DECEMBER 1**
 
 ASF_FAST Companion Software for rapid sequence assembly in real-time.  Intended for use with the Oxford Nanopore MinION Sequence Sensing device.  Software can be used with or without SMS reporting, and will generate output data within the raw fastq folders.  
 
